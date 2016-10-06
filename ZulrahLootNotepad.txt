@@ -1,0 +1,1237 @@
+Kill 1: 4:23 (PB)
+20 Zul-Andra Teleport
+100 Raw Shark
+139 Zulrah Scales
+
+Kill 2: 2:52 (PB)
+20 Zul-Andra Teleport
+300 Death Rune
+124 Zulrah Scales
+
+Kill 3: 4:04
+20 Coconut
+20 Torstol
+177 Zulrah Scales
+
+Kill 4: 3:04
+10 Saradomin Brew(4)
+500 Chaos Rune
+143 Zulrah Scales
+
+Kill 5: 3:06
+1 Palm Tree Seed
+1000 Flax
+231 Zulrah Scales
+
+Kill 6: 3:56
+10 Battlestaff
+763 Zulrah Scales
+
+Kill 7: 3:13
+10 Runite Ore
+2 Calquat Tree Seed
+257 Zulrah Scales
+
+Kill 8: 4:13
+50 Mahogany Planks
+500 Chaos Rune
+246 Zulrah Scales
+
+Kill 9: 3:48
+1 Tanzanite Fang
+20 Dwarf Weed
+241 Zulrah Scales
+
+Kill 10: 4:06
+35 Snakeskin
+25 Adamantite Bar
+137 Zulrah Scales
+
+Kill 11: 3:22
+2 Papaya Tree Seed
+1000 Flax
+204 Zulrah Scales
+
+Kill 12: 3:39
+10 Battlestaff
+30 Dragon Bones
+107 Zulrah Scales
+
+Kill 13: 3:00
+1 Palm Tree Seed
+500 Chaos Rune
+212 Zulrah Scales
+
+Kill 14: 2:31 (PB)
+30 Dragon Bones
+1500 Pure Essence
+256 Zulrah Scales
+
+Kill 15: 2:39
+1 Dragon Halberd
+1 Magic Seed
+262 Zulrah Scales
+
+Kill 16: 3:22
+2 Calquat Tree Seeds
+500 Chaos Runes
+104 Zulrah Scales
+
+Kill 17: 4:26
+50 Mahogany Plank
+1000 Flax
+266 Zulrah Scales
+
+Kill 18: 4:30
+
+Kill 19: 3:27
+50 Mahogany Plank
+1500 Pure Essence
+250 Zulrah Scales
+
+Kill 20: 4:38
+35 Snakeskin
+10 Battlestaff
+140 Zulrah Scales
+
+Kill 21: 3:04
+12 Dragon Bolt Tips
+20 Zul-Andra Teleports
+237 Zulrah Scales
+
+Kill 22: 3:07
+35 Snakeskin
+250 Grapes
+234 Zulrah Scales
+
+Kill 23: 2:43
+1 Dragon Med Helm
+10 Runite Ore
+229 Zulrah Scales
+
+Kill 24: 3:41
+100 Raw Shark
+10 Runite Ore
+104 Zulrah Scales
+
+Kill 25: 3:07
+2 Crystal Keys
+10 Battlestaff
+175 Zulrah Scales
+
+Kill 26: 3:31
+30 Dragon Bones
+1500 Pure Essence
+119 Zulrah Scales
+
+Kill 27: 2:31 (PB - Tie)
+10 Battlestaff
+2 Calquat Tree Seed
+126 Zulrah Scales
+
+Kill 28: 3:24
+10 Antidote++(4)
+35 Snakeskin
+
+Kill 29: 3:12
+10 Runite Ore
+20 Torstol
+291 Zulrah Scales
+
+Kill 30: 2:55
+20 Zul-Andra Teleports
+500 Chaos Runes
+148 Zulrah Scales
+
+Kill 31: 3:58
+250 Grapes
+631 Zulrah Scales
+
+Kill 32: 4:20
+12 Dragon Bolt Tips
+1500 Pure Essence
+230 Zulrah Scales
+
+Kill 33: 3:58
+10 Runite Ore
+30 Dragon Bones
+267 Zulrah Scales
+
+Kill 34: 3:30
+1 Dragon Med Helm
+1 Palm Tree Seed
+131 Zulrah Scales
+
+Kill 35: 4:19
+30 Dragon Bones
+1 Spirit Seed
+200 Zulrah Scales
+
+Kill 36: 3:25
+200 Law Runes
+1 Magic Seed
+140 Zulrah Scales
+
+Kill 37: 4:25
+1 Dragon Med Helm
+20 Zul-Andra Teleports
+122 Zulrah Scales
+
+Kill 38: 4:25
+1 Tanzanite Fang
+1 Dragon Halberd
+285 Zulrah Scales
+
+Kill 39: 5:22
+300 Coal
+688 Zulrah Scales
+
+Kill 40: 4:24
+12 Dragon Bolt Tips
+25 Adamantite Bars
+179 Zulrah Scales
+
+Kill 41: 2:39
+10 Saradomin Brew(4)
+500 chaos Runes
+286 Zulrah Scales
+
+Kill 42: 2:53
+10 Antidote++(4)
+20 Zul-Andra Teleports
+169 Zulrah Scales
+
+Kill 43: 3:16
+35 Snakeskin
+1500 Pure Essence
+133 Zulrah Scales
+
+Kill 44: 4:21
+20 Snapdragon
+500 Chaos Runes
+131 Zulrah Scales
+
+Kill 45: 3:22
+30 Dragon Bones
+2 Toadflax Seeds
+196 Zulrah Scales
+
+Kill 46: 4:14
+10 Saradomin Brew(4)
+2 Dwarf Weed Seed
+273 Zulrah Scales
+
+Kill 47: 3:28
+10 Antidote++(4)
+10 Runite Ore
+
+Kill 48: 3:39
+100 Raw Shark
+2 Papaya Tree Seed
+125 Zulrah Scales
+
+Kill 49: 3:31
+100 Magic Logs
+20 Zul-Andra Teleports
+216 Zulrah Scales
+
+Kill 50: 3:36
+25 Adamantite Bar
+1 Palm Tree Seed
+294 Zulrah Scales
+
+Kill 51: 3:45
+500 Chaos Runes
+200 law Runes
+153 Zulrah Scales
+
+Kill 52: 3:57
+1 Tanzanite Fang
+100 Magic Logs
+254 Zulrah Scales
+
+Kill 53: 3:03
+10 Battlestaff
+20 Coconut
+206 Zulrah Scales
+
+Kill 54: 2:33
+10 Runite Ore
+1 Magic Seed
+230 Zulrah Scales
+
+Kill 55: 3:04
+100 Raw Shark
+10 Antidote++(4)
+128 Zulrah Scales
+
+Kill 56: 3:48
+20 Batllestaff
+254 Zulrah Scales
+
+Kill 57: 2:33
+10 Battlestaff
+50 Mahogany Planks
+188 Zulrah Scales
+
+Kill 58: 3:14
+1 Magic Seed
+35 Snakeskin
+263 Zulrah Scales
+
+Kill 59: 3:27
+10 Battlestaff
+300 Death Runes
+242 Zulrah Scales
+
+Kill 60: 3:12
+30 Dragon Bones
+1500 Pure Essence
+171 Zulrah Scales
+
+Kill 61: 2:18 (PB)
+1 Magic Seed
+1000 Swamp Tar
+263 Zulrah Scales
+
+Kill 62: 4:18
+20 Snapdragon
+724 Zulrah Scales
+
+Kill 63: 2:54
+300 Death Rune
+500 Chaos Rune
+172 Zulrah Scales
+
+Kill 64: 2:21
+1 Magic Seed
+2 Calquat Seeds
+260 Zulrah Scales
+
+Kill 65: 3:28
+20 Torstol
+1 Dragon Med Helm
+255 Zulrah Scales
+
+Kill 66: 2:53
+250 Grapes
+300 Death Runes
+226 Zulrah Scales
+
+Kill 67: 2:44
+200 Law Runes
+2 Papaya Tree Seeds
+120 Zulrah Scales
+
+Kill 68: 2:59
+2 Crystal Keys
+1 Palm Tree Seed
+173 Zulrah Scales
+
+Kill 69: 2:59
+250 Grapes
+200 Law Runes
+136 Zulrah Scales
+
+Kill 70: 3:48
+10 Battlestaff
+12 Dragon Bolt Tips
+265 Zulrah Scales
+
+Kill 71: 2:08 (PB)
+300 Death Runes
+1000 Swamp Tar
+294 Zulrah Scales
+
+Kill 72: 2:18
+2 Papaya Tree Seeds
+300 Death Runes
+263 Zulrah Scales
+
+Kill 73: 2:32
+10 Runite Ore
+10 Runite Ore
+121 Zulrah Scales
+
+Kill 74: 3:39
+25 Adamantite Bar
+1500 Pure Essence
+115 Zulrah Scales
+
+Kill 75: 1:55 (PB)
+100 Magic Logs
+2 Calquat Tree Seeds
+207 Zulrah Scales
+
+Kill 76: 3:17
+250 Grapes
+200 Law Runes
+206 Zulrah Scales
+
+Kill 77: 3:04
+40 Zul-Andra Teleports
+259 Zulrah Scales
+
+Kill 78: 2:52
+10 Battlestaff
+300 Death Runes
+275 Zulrah Scales
+
+Kill 79: 2:26
+500 Chaos Runes
+35 Snakeskin
+290 Zulrah Scales
+
+Kill 80: 2:42
+10 Battlestaff
+250 Grapes
+205 Zulrah Scales
+
+Kill 81: 3:21
+12 Dragon Bolt Tips
+50 Mahogany Planks
+201 Zulrah Scales
+
+Kill 82: 2:34
+1 Dragon Med Helm
+2 Torstol Seed
+155 Zulrah Scales
+
+Kill 83: 2:43
+300 Coal
+20 Toadflax
+271 Zulrah Scales
+
+Kill 84: 3:02
+1 Magic Seed
+1500 Pure Essence
+244 Zulrah Scales
+
+Kill 85: 2:26
+1000 Swamp Tar
+200 Law Runes
+296 Zulrah Scales
+
+Kill 86: 2:27
+10 Runite Ore
+12 Dragon Bolt Tips
+230 Zulrah Scales
+
+Kill 87: 2:40
+2 Snapdragon Seed
+25 Adamantite Bar
+114 Zulrah Scales
+
+Kill 88: 3:03
+1 Elite Clue Scroll
+1000 Flax
+250 Grapes
+145 Zulrah Scales
+
+Kill 89: 2:40
+300 Coal
+1000 Flax
+189 Zulrah Scales
+
+Kill 90: 2:57
+300 Coal
+500 Chaos Runes
+124 Zulrah Scales
+
+Kill 91: 2:32
+250 Grapes
+200 law Runes
+201 Zulrah Scales
+
+Kill 92: 3:10
+25 Adamantite Bars
+500 Chaos Runes
+198 Zulrah Scales
+
+Kill 93: 2:54
+10 Battlestaff
+500 Chaos Runes
+116 Zulrah Scales
+
+Kill 94: 2:16
+1000 Swamp Tar
+200 Law Runes
+137 Zulrah Scales
+
+Kill 95: 2:30
+10 Runite Ore
+35 Snakeskin
+137 Zulrah Scales
+
+Kill 96: 2:58
+1000 Flax
+1500 Pure Essence
+202 Zulrah Scales
+
+Kill 97: 2:27
+1 Magic Seed
+500 Chaos Runes
+109 Zulrah Scales
+
+Kill 98: 2:31
+1 Magic Seed
+1000 Swamp Tar
+112 Zulrah Scales
+
+Kill 99: 2:54
+1 Magic Seed
+300 Death Runes
+236 Zulrah Scales
+
+Kill 100: 1:38 (PB)
+2 Snapdragon Seeds
+300 Death Runes
+200 Zulrah Scales
+
+Kill 101: 3:31
+20 Coconut
+2 Calquat Tree Seeds
+106 Zulrah Scales
+
+Kill 102: 2:22
+300 Coal
+20 Zul-Andra Teleports
+12 Zulrah Scales
+
+Kill 103: 2:22
+100 Raw Shark
+30 Dragon Bones
+246 Zulrah Scales
+
+Kill 104: 2:35
+50 Mahogany Planks
+200 Law Runes
+106 Zulrah Scales
+
+Kill 105: 2:34
+300 Death Runes
+250 Grapes
+239 Zulrah Scales
+
+Kill 106: 4:28
+10 Battlestaff
+1 Palm Tree Seed
+180 Zulrah Scales
+
+Kill 107: 3:21
+1 Palm Tree Seed
+615 Zulrah Scales
+
+Kill 108: 3:03
+2 Snapdragon Seeds
+1 Magic Seed
+256 Zulrah Scales
+
+Kill 109: 2:53
+1 Magic Seed
+25 Adamantite Bar
+231 Zulrah Scales
+
+Kill 110: 2:54
+2 Crystal Key
+2 Calquat Tree Seeds
+155 Zulrah Scales
+
+Kill 111: 2:43
+50 Mahogany Planks
+30 Dragon Bones
+263 Zulrah Scales
+
+Kill 112: 3:00
+300 Coal
+250 Grapes
+249 Zulrah Scales
+
+Kill 113: 2:30
+2 Papaya Tree Seed
+2 Calquat Tree Seed
+143 ZUlrah Scales
+
+Kill 114: 2:30
+500 Chaos Runes
+100 Magic Logs
+171 ZUlrah Scales
+
+Kill 115: 2:46
+2 Crystal Keys
+50 Mahogany Planks
+138 Zulrah Scales
+
+Kill 116: 3:16
+10 Runite Ore
+25 Adamantite Bar
+123 Zulrah Scales
+
+Kill 117: 2:52
+30 Dragon Bones
+35 Snakeskin
+227 Zulrah Scales
+
+Kill 118: 2:33
+300 Coal
+300 Death Runes
+194 Zulrah Scales
+
+Kill 119: 2:28
+2 Crystal Keys
+1000 Flax
+116 Zulrah Scales
+
+Kill 120: 3:24
+35 Snakeskin
+10 Saradomin Brew(4)s
+104 Zulrah Scales
+
+Kill 121: 1:52
+10 Battlestaff
+20 Coconut
+277 Zulrah Scales
+
+Kill 112: 3:03
+2 Toadflax Seeds
+300 Death Runes
+152 Zulrah Scales
+
+Kill 123: 3:13
+1500 Pure Essence
+1 Crystal Seed
+126 Zulrah Scales
+
+Kill 124: 3:24
+30 Dragon Bones
+1 Magic Seed
+238 Zulrah Scales
+
+Kill 125: 3:02
+10 Battlestaffs
+1 Magic Seed
+103 Zulrah Scales
+
+Kill 126: 3:01
+300 Coal
+300 Death Runes
+126 Zulrah Scales
+
+Kill 127: 2:27
+10 Antidote++(4)
+200 Law Runes
+279 Zulrah Scales
+
+Kill 128: 3:03
+20 Snapdragon
+25 Adamantite Bar
+266 Zulrah Scales
+
+Kill 129: 2:31
+10 Battlestaff
+250 Grapes
+250 Zulrah Scales
+
+Kill 130: 2:28
+20 Zul-Andra Teleports
+500 Chaos Runes
+146 Zulrah Scales
+
+Kill 131: 2:21
+250 Grapes
+250 Grapes
+131 Zulrah Scales
+
+Kill 132: 2:31
+10 Runite Ore
+2 Calquat Tree Seeds
+100 Zulrah Scales
+
+Kill 133: 2:30
+10 Runite Ore
+100 Magic Logs
+114 Zulrah Scales
+
+Kill 134: 2:19
+2 Snapdragon Seeds
+250 Grapes
+277 Zulrah Scales
+
+Kill 135: 3:09
+30 Dragon Bones
+10 Saradomin Brew(4)s
+133 Zulrah Scales
+
+Kill 136: 3:03
+1000 Flax
+35 Snakeskin
+249 Zulrah Scales
+
+Kill 137: 2:31
+25 Adamantite Bar
+30 Dragon Bones
+294 Zulrah Scales
+
+Kill 138: 2:24
+1500 Pure Essence
+500 Zulrah Scales
+264 Zulrah Scales
+
+Kill 139: 2:10
+10 Saradomin Brew(4)s
+1500 Pure Essence
+124 Zulrah Scales
+
+Kill 140: 3:23
+100 Magic Logs
+500 Chaos Runes
+196 Zulrah Scales
+
+Kill 141: 2:21
+2 Torstol Seeds
+20 Zul-Andra Teleports
+114 Zulrah Scales
+
+Kill 142: 2:42
+100 Raw Shark
+100 Raw Shark
+293 Zulrah Scales
+
+Kill 143: 2:55
+300 Death Runes
+1000 Flax
+154 Zulrah Scales
+
+Kill 144: 2:22
+10 Runite Ore
+200 Law Runes
+269 Zulrah Scales
+
+Kill 145: 2:20
+20 Coconut
+100 Raw Shark
+104 Zulrah Scales
+
+Kill 146: 2:55
+2 Crystal Keys
+2 Calquat Tree Seeds
+218 Zulrah Scales
+
+Kill 147: 2:38
+1 Magic Fang
+1000 Flax
+251 Zulrah Scales
+
+Kill 148: 2:54
+10 Runite Ore
+300 Coal
+224 Zulrah Scales
+
+Kill 149: 2:18
+20 Zul-Andra Teleports
+300 Death Runes
+227 Zulrah Scales
+
+Kill 150: 2:02
+10 Battlestaff
+1500 Pure Essence
+248 Zulrah Scales
+
+Kill 151: 3:11
+20 Coconut
+10 Saradomin Brew(4)s
+282 Zulrah Scales
+
+Kill 152: 2:13
+1 Magic Seed
+25 Adamantite Bar
+224 Zulrah Scales
+
+Kill 153: 2:40
+2 Papaya Tree Seeds
+100 Raw Shark
+297 Zulrah Scales
+
+Kill 154: 3:03
+200 Law Runes
+250 Grapes
+260 Zulrah Scales
+
+Kill 155: 2:34
+1000 Flax
+500 Chaos Rune
+261 Zulrah Scales
+
+Kill 156: 4:00
+50 Mahogany Plank
+100 Raw Shark
+139 Zulrah Scales
+
+Kill 157: 3:02
+1500 Pure Essence
+500 chaos Rune
+192 Zulrah Scales
+
+Kill 158: 2:43
+1500 Pure Essence
+300 Death Runes
+186 Zulrah Scales
+
+Kill 159: 2:18
+100 Magic Logs
+1 Palm Tree Seed
+215 Zulrah Scales
+
+Kill 160: 2:29
+100 Raw Shark
+12 Dragon Bolt Tips
+150 Zulrah Scales
+
+Kill 161: 2:57
+10 Runite Ore
+100 Magic Logs
+234 Zulrah Scales
+
+Kill 162: 2:40
+1 Palm Tree Seed
+500 Chaos Runes
+270 Zulrah Scales
+
+Kill 163: 2:21
+1500 Pure Essence
+30 Dragon Bones
+209 Zulrah Scales
+
+Kill 164: 3:03
+300 Coal
+1 Crystal Seed
+263 Zulrah Scales
+
+Kill 165: 3:06
+10 Battlestaff
+100 Magic Logs
+159 Zulrah Scales
+
+Kill 166: 3:12
+25 Adamantite Bar
+300 Coal
+210 Zulrah Scales
+
+Kill 167: 2:45
+25 Adamantite Bar
+50 Mahogany Plank
+252 Zulrah Scales
+
+Kill 168: 3:01
+1 Elite Clue Scroll
+10 Battlestaff
+50 Mahogany Plank
+187 Zulrah Scales
+
+Kill 169: 2:15
+30 Dragon Bones
+1500 Pure Essence
+144 Zulrah Scales
+
+Kill 170: 2:27
+2 Toadflax Seeds
+200 Law Runes
+132 Zulrah Scales
+
+Kill 171: 2:30
+1000 Flax
+50 Mahogany Plank
+219 Zulrah Scales
+
+Kill 172: 2:34
+100 Magic Logs
+300 Death Runes
+134 Zulrah Scales
+
+Kill 173: 2:41
+100 Raw Shark
+300 Death Runes
+160 Zulrah Scales
+
+Kill 174: 2:40
+35 Snakeskin
+300 Death Runes
+216 Zulrah Scales
+
+Kill 175: 2:42
+20 Zul-Andra Teleport
+25 Adamantite Bar
+249 Zulrah Scales
+
+Kill 176: 3:05
+2 Crystal Keys
+100 Magic Logs
+220 Zulrah Scales
+
+Kill 177: 2:42
+1 Palm Tree Seed
+200 Law Runes
+136 Zulrah Scales
+
+Kill 178: 3:23
+20 Zul-Andra Teleports
+300 Death Runes
+250 Zulrah Scales
+
+Kill 179: 3:45
+1 Palm Tree Seed
+300 Death Runes
+143 Zulrah Scales
+
+Kill 180: 2:21
+500 Chaos Runes
+300 Coal
+297 Zulrah Scales
+
+Kill 181: 2:39
+1500 Pure Essence
+300 Death Runes
+183 Zulrah Scales
+
+Kill 182: 2:57
+1 Palm Tree Seed
+300 Coal
+168 Zulrah Scales
+
+Kill 183: 2:57
+1 Palm Tree Seed
+300 Coal
+295 Zulrah Scales
+
+Kill 184: 2:24
+2 Crystal Keys
+20 Coconut
+208 Zulrah Scales
+
+Kill 185: 2:33
+10 Runite Ore
+500 Chaos Rune
+174 Zulrah Scales
+
+Kill 186: 2:27
+10 Battlestaff
+100 Magic Logs
+110 Zulrah Scales
+
+Kill 187: 3:15
+10 Antidote++(4)s
+300 Death Runes
+273 Zulrah Scales
+
+Kill 188: 2:26
+10 Runite Ore
+20 Zul-Andra Teleports
+201 Zulrah Scales
+
+Kill 189: 2:34
+35 Snakeskin
+200 Law Runes
+279 Zulrah Scales
+
+Kill 190: 2:10
+10 Runite Ore
+10 Battlestaff
+251 Zulrah Scales
+
+Kill 191: 2:47
+1000 Swamp Tar
+1000 Swamp Tar
+250 Zulrah Scales
+
+Kill 192: 2:24
+1000 Flax
+12 Dragon Bolt Tips
+183 Zulrah Scales
+
+Kill 193: 1:58
+100 Raw Shark
+10 Antidote++
+208 Zulrah Scales
+
+Kill 194: 1:56
+10 Antidote++(4)s
+30 Dragon Bones
+179 Zulrah Scales
+
+Kill 195: 1:55
+10 Antidote++(4)s
+12 Dragon Bolt Tips
+208 Zulrah Scales
+
+Kill 196: 2:26
+20 Snapdragon
+100 Magic Logs
+205 Zulrah Scales
+
+Kill 197: 3:04
+1500 Pure Essence
+300 Death Runes
+
+Kill 198: 2:57
+1 Palm Tree Seed
+2 Snapdragon seed
+196 Zulrah Scales
+
+Kill 199: 2:46
+500 Chaos Runes
+500 Chaos Runes
+287 Zulrah Scales
+
+Kill 200: 3:06
+1000 Flax
+1 Dragon Halberd
+178 Zulrah Scales
+
+Kill 201: 3:00
+20 Dwarf Weed
+20 Zul-Andra Teleports
+224 Zulrah Scales
+
+Kill 202: 2:31
+12 Dragon Bolt Tips
+100 Magic Logs
+179 Zulrah Scales
+
+Kill 203: 2:46
+1500 Pure Essence
+659 Zulrah Scales
+
+Kill 204: 2:01
+10 Runite Ore
+300 Coal
+157 Zulrah Scales
+
+Kill 205: 3:04
+30 Dragon Bones
+300 Death Runes
+156 Zulrah Scales
+
+Kill 206: 2:16
+100 Raw Shark
+300 Death Runes
+266 Zulrah Scales
+
+Kill 207: 2:20
+2 Calquat Tree Seed
+35 Snakeskin
+182 Zulrah Scales
+
+Kill 208: 2:55
+35 Snakeskin
+35 Snakeskin
+178 Zulrah Scales
+
+Kill 209: 2:52
+10 Battlestaff
+500 Zulrah Scales
+261 Zulrah Scales
+
+Kill 210: 2:33
+100 Raw Shark
+300 Coal
+134 Zulrah Scales
+
+Kill 211: 2:49
+20 Coconut
+300 Death Runes
+261 Zulrah Scales
+
+Kill 212: 2:42
+200 Law Runes
+500 Chaos Runes
+277 Zulrah Scales
+
+Kill 213: 2:39
+10 Runite Ore
+12 Dragon Bolt Tips
+235 Zulrah Scales
+
+Kill 214: 3:27
+2 Papaya Tree Seed
+25 Adamantite Bar
+172 Zulrah Scales
+
+Kill 215: 2:43
+1 Magic Seed
+300 Coal
+240 Zulrah Scales
+
+Kill 216: 2:42
+10 Runite Ore
+300 Death Runes
+102 Zulrah Scales
+
+Kill 217: 2:39
+30 Dragon Bones
+300 Coal
+292 Zulrah Scales
+
+Kill 218: 3:03
+12 Dragon Bolt Tips
+100 Raw Shark
+286 Zulrah Scales
+
+Kill 219: 3:34
+1 Magic Seed
+10 Battlestaff
+298 Zulrah Scales
+
+Kill 220: 3:51
+1 Dragon Med Helm
+1000 Flax
+261 Zulrah Scales
+
+Kill 221: 2:34
+100 Raw Shark
+200 Law Rune
+227 Zulrah Scales
+
+Kill 222: 2:36
+10 Saradomin Berw(4)S
+200 Law Runes
+159 Zulrah Scales
+
+Kill 223: 3:28
+10 Runite Ore
+20 Zul-Andra Teleports
+149 Zulrah Scales
+
+Kill 224: 2:29
+10 Battlestaff
+1500 Pure Essence
+237 Zulrah Scales
+
+Kill 225: 2:27
+10 Runite Ore
+200 Law Runes
+190 ZUlrah Scales
+
+Kill 226: 2:36
+20 Dwarf Weed
+200 Law Runes
+215 Zulrah Scales
+
+Kill 227: 2:41
+2 Papaya Tree Seed
+1500 Pure Essence
+294 Zulrah Scales
+
+Kill 228: 2:44
+10 Antidote++(4)s
+500 Zulrah Scales
+161 Zulrah Scales
+
+Kill 229: 2:27
+1500 Pure Essence
+500 Zulrah Scales
+281 Zulrah Scales
+
+Kill 230: 2:58
+10 Battlestaff
+10 Antidote++(4)s
+203 Zulrah Scales
+
+Kill 231: 2:10
+25 Adamantite Bars
+20 Zul-Andra Teleports
+256 Zulrah Scales
+
+Kill 232: 3:28
+25 Adamantite Bar
+200 Law Runes
+175 Zulrah Scales
+
+Kill 233: 4:11
+300 Death Runes
+1000 Flax
+197 Zulrah Scales
+
+Kill 234: 2:32
+1 Spirit Seed
+1500 Pure Essence
+125 Zulrah Scales
+
+Kill 235: 2:57
+1 Palm Tree Seed
+12 Dragon Bolt Tips
+200 Zulrah Scales
+
+Kill 236: 1:42
+2 Torstol Seeds
+500 Chaos Runes
+202 Zulrah Scales
+
+Kill 237: 2:28
+1 Magic Seed
+35 Snakeskin
+280 Zulrah Scales
+
+Kill 238: 3:23
+1 Magic Seed
+35 Snakeskin
+274 Zulrah Scales
+
+Kill 239: 2:28
+2 Toadflax Seed
+1500 Pure Essence
+169 Zulrah Scales
+
+Kill 240: 1:58
+20 Zul-Andra Teleports
+20 Zul-Andra Teleports
+269 Zulrah Scales
+
+Kill 241: 2:13
+100 Raw Shark
+100 Magic Logs
+264 Zulrah Scales
+
+Kill 242: 2:43
+10 Battlestaff
+12 Dragon Bolt Tips
+222 Zulrah Scales
+
+Kill 243: 3:43
+10 Antidote++(4)s
+500 Chaos Runes
+210 Zulrah Scales
+
+Kill 244: 2:28
+250 Grapes
+200 Law Rune
+104 Zulrah Scales
+
+Kill 245: 2:17
+10 Saradomin Brew(4)s
+50 Mahogany Plank
+238 Zulrah Scales
+
+Kill 246: 2:38
+10 Runite Ore
+35 Snakeskin
+277 Zulrah Scales
+
+Kill 247: 2:49
+20 Snapdragon
+250 Grapes
+163 Zulrah Scales
+
+Kill 248: 2:51
+2 Crystal Keys
+1500 Pure Essence
+195 Zulrah Scales
+
+Kill 249: 2:25
+300 Coal
+1500 Pure Essence
+243 Zulrah Scales
+
+Kill 250: 2:37
+2 Snapdragon Seed
+500 Chaos Runes
+296 Zulrah Scales
